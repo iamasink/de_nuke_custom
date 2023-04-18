@@ -17232,3 +17232,744 @@ Reduced 8603 texinfos to 5370
 Reduced 190 texdatas to 170 (7577 bytes to 6282)
 Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
 15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 361
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2764656 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8602 texinfos to 5368
+Reduced 190 texdatas to 170 (7577 bytes to 6282)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 362
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 38197: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2764656 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8602 texinfos to 5368
+Reduced 190 texdatas to 170 (7577 bytes to 6282)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 362
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 38197: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2764656 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8602 texinfos to 5368
+Reduced 190 texdatas to 170 (7577 bytes to 6282)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 363
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 38190: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 37819: areaportal brush doesn't touch two areas
+
+Brush 39257: areaportal brush doesn't touch two areas
+
+Brush 39271: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37926: areaportal brush doesn't touch two areas
+
+Brush 39320: areaportal brush doesn't touch two areas
+
+Brush 37833: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 21962019: areaportal brush doesn't touch two areas
+
+Brush 38263: areaportal brush doesn't touch two areas
+
+Brush 21740656: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 39236: areaportal brush doesn't touch two areas
+
+Brush 39243: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37826: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 38183: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 22248447: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 21716936: areaportal brush doesn't touch two areas
+
+Brush 37877: areaportal brush doesn't touch two areas
+
+Brush 38277: areaportal brush doesn't touch two areas
+
+Brush 39213: areaportal brush doesn't touch two areas
+
+Brush 39229: areaportal brush doesn't touch two areas
+
+Brush 37854: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 39278: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+done (1)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (966544 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1882 texinfos to 1429
+Reduced 81 texdatas to 78 (3057 bytes to 2942)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+1 second elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 364
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1068130 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2858 texinfos to 1736
+Reduced 98 texdatas to 95 (3632 bytes to 3517)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+2 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 365
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1068130 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2858 texinfos to 1736
+Reduced 98 texdatas to 95 (3632 bytes to 3517)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+2 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 366
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2764656 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8602 texinfos to 5368
+Reduced 190 texdatas to 170 (7577 bytes to 6282)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 367
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2764656 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8602 texinfos to 5368
+Reduced 190 texdatas to 170 (7577 bytes to 6282)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 368
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2356 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2764656 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8602 texinfos to 5368
+Reduced 190 texdatas to 170 (7577 bytes to 6282)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 370
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2354 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2765048 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8619 texinfos to 5374
+Reduced 190 texdatas to 170 (7577 bytes to 6282)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 371
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2354 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2765048 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8619 texinfos to 5374
+Reduced 190 texdatas to 170 (7577 bytes to 6282)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 372
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2354 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2765048 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8619 texinfos to 5374
+Reduced 190 texdatas to 170 (7577 bytes to 6282)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 373
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2354 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2765048 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8619 texinfos to 5374
+Reduced 190 texdatas to 170 (7577 bytes to 6282)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
