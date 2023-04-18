@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DE_NUKE/HR_NUKE/HR_RIVER_WATER_001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_nuke_custom/c-2226_-1020_-346"
+		"proxies"
+		{
+		}
+	}
+}

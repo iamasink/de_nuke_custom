@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DE_NUKE/HR_NUKE/HR_RIVER_WATER_001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_nuke/c208_-2944_-464"
+		"Proxies"
+		{
+		}
+	}
+}

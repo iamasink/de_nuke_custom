@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/NORMAL_DEV/RED.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_nuke_custom/c639_110_-351"
+	}
+}

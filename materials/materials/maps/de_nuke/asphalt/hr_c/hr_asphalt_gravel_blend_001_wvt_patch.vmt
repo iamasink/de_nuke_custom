@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"		"asphalt/hr_c/hr_asphalt_001"
+	"$basetexturetransform"		"center 0 0 scale 1.125 1.125 rotate 0 translate 0 0"
+	"$surfaceprop"		"concrete"
+	"$detail"		"asphalt/hr_c/hr_asphalt_001_detail"
+	"$detailscale"		"0.150000"
+	"$detailblendfactor"		"1.000000"
+}

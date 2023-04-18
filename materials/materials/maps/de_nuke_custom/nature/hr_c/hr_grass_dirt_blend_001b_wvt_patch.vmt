@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/hr_c/hr_grass_001_color"
+	"$detail"		"asphalt/hr_c/hr_asphalt_001_detail"
+	"$detailscale"		"0.150000"
+	"$detailblendfactor"		"1.000000"
+	"$surfaceprop"		"grass"
+}
