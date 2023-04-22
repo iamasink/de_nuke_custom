@@ -20030,3 +20030,3663 @@ Reduced 8939 texinfos to 5504
 Reduced 187 texdatas to 166 (7545 bytes to 6226)
 Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
 15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 425
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2196 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1923330 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7581 texinfos to 4824
+Reduced 179 texdatas to 159 (7275 bytes to 5980)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+14 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 426
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2196 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2868705 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9588 texinfos to 5766
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 427
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2196 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2868641 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9589 texinfos to 5766
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+21 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 428
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2196 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2871929 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9639 texinfos to 5770
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+18 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 429
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2180 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2850713 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8059 texinfos to 5550
+Reduced 164 texdatas to 157 (6183 bytes to 5833)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 429
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2180 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2850713 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8059 texinfos to 5550
+Reduced 164 texdatas to 157 (6183 bytes to 5833)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+17 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 430
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2196 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2871929 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9644 texinfos to 5770
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+18 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 431
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 2196 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2871945 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9648 texinfos to 5770
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+18 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 432
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2086 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2871945 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9648 texinfos to 5761
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+18 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 433
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578317: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2080 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2872601 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9663 texinfos to 5761
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+18 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 434
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+env_cubemap pointing at deleted brushside near (208, -2944, -464)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578317: areaportal brush doesn't touch two areas
+
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2022 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1943835 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6708 texinfos to 4820
+Reduced 156 texdatas to 149 (5913 bytes to 5563)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 435
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578317: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (1)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2052 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2872601 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9668 texinfos to 5760
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+17 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 437
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578317: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1998 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2872681 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9673 texinfos to 5759
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+18 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 438
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578317: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578471: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2872681 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9676 texinfos to 5759
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 439
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 38190: areaportal brush doesn't touch two areas
+
+Brush 38190: areaportal brush doesn't touch two areas
+Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 22578317: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578471: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 37819: areaportal brush doesn't touch two areas
+
+Brush 39257: areaportal brush doesn't touch two areas
+
+Brush 39271: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37926: areaportal brush doesn't touch two areas
+
+Brush 39320: areaportal brush doesn't touch two areas
+
+Brush 22450757: areaportal brush doesn't touch two areas
+
+Brush 37833: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 21962019: areaportal brush doesn't touch two areas
+
+Brush 38263: areaportal brush doesn't touch two areas
+
+Brush 21740656: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 39236: areaportal brush doesn't touch two areas
+
+Brush 39243: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37826: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 38183: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 22248447: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 21716936: areaportal brush doesn't touch two areas
+
+Brush 37877: areaportal brush doesn't touch two areas
+
+Brush 38277: areaportal brush doesn't touch two areas
+
+Brush 39213: areaportal brush doesn't touch two areas
+
+Brush 39229: areaportal brush doesn't touch two areas
+
+Brush 37854: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 39278: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+done (1)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1048184 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2431 texinfos to 1708
+Reduced 83 texdatas to 80 (3128 bytes to 3013)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+1 second elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 440
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2872713 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9679 texinfos to 5759
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 441
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2872713 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9682 texinfos to 5759
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 442
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 38190: areaportal brush doesn't touch two areas
+
+Brush 38190: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 22578317: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578471: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 37819: areaportal brush doesn't touch two areas
+
+Brush 39257: areaportal brush doesn't touch two areas
+
+Brush 39271: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37926: areaportal brush doesn't touch two areas
+
+Brush 39320: areaportal brush doesn't touch two areas
+
+Brush 22450757: areaportal brush doesn't touch two areas
+
+Brush 37833: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 21962019: areaportal brush doesn't touch two areas
+
+Brush 38263: areaportal brush doesn't touch two areas
+
+Brush 21740656: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 39236: areaportal brush doesn't touch two areas
+
+Brush 39243: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37826: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 38183: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 22248447: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 21716936: areaportal brush doesn't touch two areas
+
+Brush 37877: areaportal brush doesn't touch two areas
+
+Brush 38277: areaportal brush doesn't touch two areas
+
+Brush 39213: areaportal brush doesn't touch two areas
+
+Brush 39229: areaportal brush doesn't touch two areas
+
+Brush 37854: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 39278: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+done (1)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1048608 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2442 texinfos to 1710
+Reduced 83 texdatas to 80 (3128 bytes to 3013)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+1 second elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 443
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 38190: areaportal brush doesn't touch two areas
+
+Brush 38190: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 22578317: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578471: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 37819: areaportal brush doesn't touch two areas
+
+Brush 39257: areaportal brush doesn't touch two areas
+
+Brush 39271: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37926: areaportal brush doesn't touch two areas
+
+Brush 39320: areaportal brush doesn't touch two areas
+
+Brush 22450757: areaportal brush doesn't touch two areas
+
+Brush 37833: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 21962019: areaportal brush doesn't touch two areas
+
+Brush 38263: areaportal brush doesn't touch two areas
+
+Brush 21740656: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 39236: areaportal brush doesn't touch two areas
+
+Brush 39243: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37826: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 38183: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 22248447: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 21716936: areaportal brush doesn't touch two areas
+
+Brush 37877: areaportal brush doesn't touch two areas
+
+Brush 38277: areaportal brush doesn't touch two areas
+
+Brush 39213: areaportal brush doesn't touch two areas
+
+Brush 39229: areaportal brush doesn't touch two areas
+
+Brush 37854: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 39278: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+done (1)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1048528 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2442 texinfos to 1710
+Reduced 83 texdatas to 80 (3128 bytes to 3013)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+1 second elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 444
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 38190: areaportal brush doesn't touch two areas
+
+Brush 38190: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 22578317: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578471: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 37819: areaportal brush doesn't touch two areas
+
+Brush 39257: areaportal brush doesn't touch two areas
+
+Brush 39271: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37926: areaportal brush doesn't touch two areas
+
+Brush 39320: areaportal brush doesn't touch two areas
+
+Brush 22450757: areaportal brush doesn't touch two areas
+
+Brush 37833: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 21962019: areaportal brush doesn't touch two areas
+
+Brush 38263: areaportal brush doesn't touch two areas
+
+Brush 21740656: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 39236: areaportal brush doesn't touch two areas
+
+Brush 39243: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37826: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 38183: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 22248447: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 21716936: areaportal brush doesn't touch two areas
+
+Brush 37877: areaportal brush doesn't touch two areas
+
+Brush 38277: areaportal brush doesn't touch two areas
+
+Brush 39213: areaportal brush doesn't touch two areas
+
+Brush 39229: areaportal brush doesn't touch two areas
+
+Brush 37854: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 39278: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+done (1)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1048528 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2442 texinfos to 1710
+Reduced 83 texdatas to 80 (3128 bytes to 3013)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+1 second elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 445
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 38190: areaportal brush doesn't touch two areas
+
+Brush 38190: areaportal brush doesn't touch two areas
+
+Brush 22450728: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+
+Brush 38197: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578516: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578384: areaportal brush doesn't touch two areas
+
+Brush 22578510: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 21742456: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 22578308: areaportal brush doesn't touch two areas
+
+Brush 22578315: areaportal brush doesn't touch two areas
+
+Brush 37974: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 21742457: areaportal brush doesn't touch two areas
+
+Brush 22578317: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 22578370: areaportal brush doesn't touch two areas
+
+Brush 37989: areaportal brush doesn't touch two areas
+
+Brush 22578471: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 39250: areaportal brush doesn't touch two areas
+
+Brush 37819: areaportal brush doesn't touch two areas
+
+Brush 39257: areaportal brush doesn't touch two areas
+
+Brush 39271: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39220: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37926: areaportal brush doesn't touch two areas
+
+Brush 39320: areaportal brush doesn't touch two areas
+
+Brush 22450757: areaportal brush doesn't touch two areas
+
+Brush 37833: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 21962019: areaportal brush doesn't touch two areas
+
+Brush 38263: areaportal brush doesn't touch two areas
+
+Brush 21740656: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 37861: areaportal brush doesn't touch two areas
+
+Brush 39236: areaportal brush doesn't touch two areas
+
+Brush 39243: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 39038: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 37891: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 22318335: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 37898: areaportal brush doesn't touch two areas
+
+Brush 38686: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 39292: areaportal brush doesn't touch two areas
+
+Brush 37826: areaportal brush doesn't touch two areas
+
+Brush 38204: areaportal brush doesn't touch two areas
+
+Brush 38183: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 22248447: areaportal brush doesn't touch two areas
+
+Brush 39264: areaportal brush doesn't touch two areas
+
+Brush 21716936: areaportal brush doesn't touch two areas
+
+Brush 37877: areaportal brush doesn't touch two areas
+
+Brush 38277: areaportal brush doesn't touch two areas
+
+Brush 39213: areaportal brush doesn't touch two areas
+
+Brush 39229: areaportal brush doesn't touch two areas
+
+Brush 37854: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 37905: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 39313: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 37884: areaportal brush doesn't touch two areas
+
+Brush 39278: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+
+Brush 21716918: areaportal brush doesn't touch two areas
+done (1)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1048528 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2447 texinfos to 1710
+Reduced 83 texdatas to 80 (3128 bytes to 3013)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+1 second elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 446
+Entity 50: func_areaportal can only be a single brush
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 447
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2873025 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9616 texinfos to 5759
+Reduced 191 texdatas to 170 (7618 bytes to 6299)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 447
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2873025 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9616 texinfos to 5759
+Reduced 191 texdatas to 170 (7618 bytes to 6299)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 448
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin
+Areaportal leak ! File: f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.lin 
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 22578194: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+
+Brush 21742458: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2873025 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9674 texinfos to 5760
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+17 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 449
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2873025 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9669 texinfos to 5760
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 451
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2875969 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9684 texinfos to 5760
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+17 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 452
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2875969 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9684 texinfos to 5760
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 453
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1986 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2858192 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9539 texinfos to 5734
+Reduced 187 texdatas to 166 (7545 bytes to 6226)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 454
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1986 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2858192 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9539 texinfos to 5734
+Reduced 187 texdatas to 166 (7545 bytes to 6226)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 455
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1986 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2858192 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9539 texinfos to 5734
+Reduced 187 texdatas to 166 (7545 bytes to 6226)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 455
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1986 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2858192 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9539 texinfos to 5734
+Reduced 187 texdatas to 166 (7545 bytes to 6226)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 457
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2875937 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9689 texinfos to 5764
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
