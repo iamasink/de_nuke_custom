@@ -23690,3 +23690,217 @@ Reduced 9689 texinfos to 5764
 Reduced 192 texdatas to 171 (7640 bytes to 6321)
 Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
 16 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 457
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2875937 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9689 texinfos to 5764
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+15 seconds elapsed
+
+
+
+materialPath: F:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.vmf
+Map revision 458
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_dirt_001_blend_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_mulch_blend_001_wvt_patch
+Patching WVT material: maps/de_nuke_custom/ground/hr_g/hr_gravel_grass_001_blend_skybox_wvt_patch
+Patching WVT material: maps/de_nuke_custom/nature/hr_c/hr_grass_dirt_blend_001b_skybox_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2875937 bytes)
+Error! To use model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_br.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9689 texinfos to 5764
+Reduced 192 texdatas to 171 (7640 bytes to 6321)
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16 seconds elapsed
+
+
+
+8 threads
+reading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+reading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.prt
+4868 portalclusters
+15545 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 22557 visible clusters (0.00%)
+Total clusters visible: 3075558
+Average clusters visible: 631
+Building PAS...
+Average clusters audible: 3681
+visdatasize:4022701  compressed from 5997376
+writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+73 hours, 3 minutes, 49 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+16104 faces
+10 degenerate faces
+11511852 square feet [1657706624.00 square inches]
+716 Displacements
+882634 Square Feet [127099352.00 Square Inches]
+16094 patches before subdivision
+206366 patches after subdivision
+1308 direct lights
+0...1...2...3...4... warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 7700
+5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14749357, max 1065
+transfer lists: 112.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1522839, 1606395, 1567620)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(417397, 412156, 385232)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(147180, 134434, 120707)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(56270, 46793, 40367)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(23402, 17747, 14929)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10098, 6866, 5614)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4586, 2806, 2262)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2142, 1164, 922)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1039, 507, 399)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(516, 226, 176)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(264, 105, 82)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(137, 50, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(73, 25, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(39, 13, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(21, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(12, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(7, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(4, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0418 sec>
+0...1...2...3...4... warning - face vectors parallel to face normal. bad lighting will be produced
+5 warning - face vectors parallel to face normal. bad lighting will be produced
+.SampleRadial: Punting, Waiting for fix
+..6...7...8...9...10FinalLightFace Done
+660 of 744 (88% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 252/1024        12096/49152    (24.6%) 
+brushes               7167/8192        86004/98304    (87.5%) VERY FULL!
+brushsides           47094/81920      376752/655360   (57.5%) 
+planes               15416/65536      308320/1310720  (23.5%) 
+vertexes             37082/65536      444984/786432   (56.6%) 
+nodes                12000/65536      384000/2097152  (18.3%) 
+texinfos              5764/12288      415008/884736   (46.9%) 
+texdata                171/4096         5472/131072   ( 4.2%) 
+dispinfos              716/0          126016/0        ( 0.0%) 
+disp_verts           24348/0          486960/0        ( 0.0%) 
+disp_tris            34048/0           68096/0        ( 0.0%) 
+disp_multiblend         81/0            6480/0        ( 0.0%) 
+disp_lmsamples     1170370/0         1170370/0        ( 0.0%) 
+faces                16104/65536      901824/3670016  (24.6%) 
+hdr faces            16104/65536      901824/3670016  (24.6%) 
+origfaces            11075/65536      620200/3670016  (16.9%) 
+facebrushes           3614/0            7228/0        ( 0.0%) 
+facebrushlists       16104/0           64416/0        ( 0.0%) 
+leaves               12253/65536      392096/2097152  (18.7%) 
+leaffaces            21781/65536       43562/131072   (33.2%) 
+leafbrushes          18618/65536       37236/131072   (28.4%) 
+areas                   19/1024          152/8192     ( 1.9%) 
+surfedges           123627/512000     494508/2048000  (24.1%) 
+edges                84028/256000     336112/1024000  (32.8%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights       1308/8192       130800/819200   (16.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           2712/32768       27120/327680   ( 8.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         53400/65536      106800/131072   (81.5%) VERY FULL!
+cubemapsamples          36/1024          576/16384    ( 3.5%) 
+overlays               731/1024       257312/360448   (71.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]    16572552/0        ( 0.0%) 
+visdata               [variable]     4022701/16777216 (24.0%) 
+entdata               [variable]      726867/393216   (184.9%) SIZE OVERFLOW!!!
+LDR ambient table    12253/65536       49012/262144   (18.7%) 
+HDR ambient table    12253/65536       49012/262144   (18.7%) 
+LDR leaf ambient     12253/65536      343084/1835008  (18.7%) 
+HDR leaf ambient     62390/65536     1746920/1835008  (95.2%) SIZE DANGER!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/622548   ( 0.0%) 
+pakfile               [variable]    82190823/0        ( 0.0%) 
+physics               [variable]     2875937/4194304  (68.6%) 
+physics terrain       [variable]      108049/1048576  (10.3%) 
+
+Level flags = 7e
+
+Total triangle count: 47158
+Writing f:\steam\steamapps\common\counter-strike global offensive\csgo\maps\de_nuke_custom\de_nuke_custom.bsp
+3 hours, 22 minutes, 28 seconds elapsed
