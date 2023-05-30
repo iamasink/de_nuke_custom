@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "normal_dev/red"
+	"$surfaceprop" "rubber"
+	"$bumpmap" "normal_dev/normal"
+	"$envmap" "env_cubemap"
+	
+	"$envmaptint" "[.025 .025 .025]"
+	"$detail" 				"detail\detailconcrete001a"
+	"$detailscale" 			"[1.5 1.5]"
+	"$detailblendfactor" 	"1"
+}
